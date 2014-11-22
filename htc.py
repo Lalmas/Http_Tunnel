@@ -6,7 +6,7 @@
 ### If your all network servers and posts are behind a web proxy, lot of people think 
 ### that anyone can't execute a jobs on a postes that behind a proxy.
 ### In this program, we assume that a person which execute this httpTunnel is in company for example.
-### It run a progrm htc.py on a poste that he want have a accès from home. 
+### It run a progrm htc.py on a poste that he want have a accès from home.
 ### And on his home post, he run hts.py program and in other terminal: ssh 127.0.0.1 -p 2222 and
 ### he can write a commande and it will be execute on a company post
 ### -----------------------------------------------------------------------------------------------------
